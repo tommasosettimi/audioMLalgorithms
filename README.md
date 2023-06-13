@@ -1,4 +1,4 @@
-# audioAImiscellaneous
+# audioMLalgorithms
 
 This repository contains Machine Learning and Deep Learning algorithms and models (music information retrieval, features extraction, classification et similia) for audio applications. There are various folders, specifically:
 
