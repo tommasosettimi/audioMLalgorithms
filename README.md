@@ -50,38 +50,21 @@ The dataset used for this project is GoodSounds Dataset from Pompeu Fabra Univer
 
 This project was developed as part of the 'Music Information Retrieval' [course](https://www.upf.edu/web/smc/music-information-retrieval) of the master's programme 'Sound and Music Computing' at Pompeu Fabra University (Barcelona, Spain).
 
-
-
 #
 
 ## DL-music-genre-classifier
 
 ### Summary
 
-The model was developed using a combination of Machine Learning (Support Vector Machine, Logistic Regression) and Deep Learning (Multi-Layer perceptron) techniques for music genre classification.
-The project is divided into three parts: 
+This model was developed using a combination of Machine Learning (Support Vector Machine, Logistic Regression) and Deep Learning (Multi-Layer perceptron) techniques for music genre classification. The project is divided into three python jupyter notebooks: 
+
+1) **Genre_classification_1.ipynb**: classifier implementation with a pipeline to structure categorical and numerical data thorugh scikit-learn, Logistic regression, SVMs and MLPC (Multi-Layer perceptron).
+
+2) **Genre_classification_2.ipynb**: additional classifier implementation with other pre-processing pipelines.
+
+3) **Genre_classification_2.ipynb**: testing the classifications through metrics and loss functions with Keras.
 
 
-
-. In the 'notebooks' folder are three python jupyter notebooks: 
-
-1) 
-
-2) 
-
-3)
-
-1. Classifier implementation with scikit-learn notebook
-
-Logistic Regression, Support Vector Machines and Multi Layer Perceptron with a pipeline to structure categorical and numerical data.
-
-2. Some more classification tests notebook
-
-This is a previous iteration than (1.), it shows other preprocessing pipelines that are probably less efficient and more prone to error.
-
-3. Some tests with Keras notebook
-
-Testing the classification using Keras, experiment with models, loss functions and metrics.
 ### Credits
 
 This project was developed as part of the 'Advance Topics in Sound and Music Computing' [course](https://www.upf.edu/web/smc/advance-topics-in-smc) of the master's programme 'Sound and Music Computing' at Pompeu Fabra University (Barcelona, Spain).
