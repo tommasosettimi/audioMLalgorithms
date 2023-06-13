@@ -6,7 +6,7 @@ This repository contains Machine Learning and Deep Learning algorithms and model
 
 - **DL-audio-instrument-material-classifier**: Deep Learning-based algorithm for audio feature extraction and classification of classical musical instrument construction **material** (wood, plastic, metal ...) using a combination of Machine Learning (Support Vector Machines, K-Nearest Neighbours) and Deep Learning (Multilayer Perceptron) techniques and the Essentia library.
 
-
+#
 
 ## DL-audio-classical-instrument-classifier
 
@@ -26,7 +26,7 @@ The dataset used for this project is GoodSounds Dataset from Pompeu Fabra Univer
 This project was developed as part of the 'Music Information Retrieval' [course](https://www.upf.edu/web/smc/music-information-retrieval) of the master's programme 'Sound and Music Computing' at Pompeu Fabra University (Barcelona, Spain).
 
 
-
+#
 
 ## DL-audio-instrument-material-classifier
 
