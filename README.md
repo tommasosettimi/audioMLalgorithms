@@ -4,7 +4,7 @@
 
 This repository contains Machine Learning and Deep Learning algorithms and models (music information retrieval, features extraction, classification ...) for audio applications. There are various folders, specifically:
 
-- DL-audio-classical-instrument-classifier**: Deep Learning-based algorithm for audio feature extraction and classification of classical musical **instrument** (violin, clarinet, cello ...) using a combination of Machine Learning (Support Vector Machines, K-Nearest Neighbours) and Deep Learning (Multilayer Perceptron) techniques and the Essentia library.
+- **DL-audio-classical-instrument-classifier**: Deep Learning-based algorithm for audio feature extraction and classification of classical musical **instrument** (violin, clarinet, cello ...) using a combination of Machine Learning (Support Vector Machines, K-Nearest Neighbours) and Deep Learning (Multilayer Perceptron) techniques and the Essentia library.
 
 - **DL-audio-instrument-material-classifier**: Deep Learning-based algorithm for audio feature extraction and classification of classical musical instrument construction **material** (wood, plastic, metal ...) using a combination of Machine Learning (Support Vector Machines, K-Nearest Neighbours) and Deep Learning (Multilayer Perceptron) techniques and the Essentia library.
 
