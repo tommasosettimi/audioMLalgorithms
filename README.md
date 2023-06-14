@@ -37,9 +37,9 @@ This project was developed as part of the 'Music Information Retrieval' [course]
 The model was developed using a combination of Machine Learning (Support Vector Machine, K-Nearest Neighbours) and Deep Learning (Multilayer perceptron) techniques for feature extraction and classification.
 The project is divided into three parts: feature extraction, classification and visualisation. In the 'notebooks' folder are two python jupyter notebooks: 
 
-1) In 'feature_extraction_MLP.ipynb' feature extraction is performed using the Essentia library (open-source C++ library for audio analysis and audio-based music information retrieval) and SVM. An initial classification is performed using neural networks (Multilayer Perceptron).
+1) In **'feature_extraction_MLP.ipynb'** feature extraction is performed using the Essentia library (open-source C++ library for audio analysis and audio-based music information retrieval) and SVM. An initial classification is performed using neural networks (Multilayer Perceptron).
 
-2) In "classification_visualisation_KNN" a second classification (K-Nearest Neighbours) and visualisation of the data is performed.
+2) In **"classification_visualisation_KNN"** a second classification (K-Nearest Neighbours) and visualisation of the data is performed.
 
 
 ### Dataset
